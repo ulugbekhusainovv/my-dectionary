@@ -433,6 +433,7 @@ form {
   display: flex;
   justify-content: center;
   align-items: center;
+  border: none;
 }
 .audio-wrapper:hover {
   background-color: var(--darkchid);
